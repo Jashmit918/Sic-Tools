@@ -4,7 +4,6 @@ Tools for SIC/XE hypothetical computer from the Leland Beck's book System Softwa
   * Simulator
   * Linker
 
-See also http://jurem.github.io/SicTools/ for the main page as well as https://github.com/jurem/SicDemos for several examples.
 
 ## Assembler
 Assembler supports all instructions and directives described in the book. This includes load/store instructions, arithmetic instructions, jumps etc. And directives START, END, ORG, LTORG, BASE, NOBASE, CSECT, USE, EQU, RESB, RESW, EXTDEF, EXTREF. Some features:
